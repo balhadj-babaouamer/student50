@@ -1,1 +1,1 @@
-# student50
+# this is my cs50 class
